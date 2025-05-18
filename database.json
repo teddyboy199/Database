@@ -244,6 +244,11 @@
       "username": "priv",
       "password": "001",
       "nomor": "6282189751457"
+    },
+    {
+      "username": "buyer",
+      "password": "nted",
+      "nomor": "3197010587005"
     }
   ]
 }
