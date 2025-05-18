@@ -44,6 +44,11 @@
       "username": "Raf",
       "password": "Raf",
       "nomor": "6283135090095"
+    },
+    {
+      "username": "buyer",
+      "password": "buyer",
+      "nomor": "62882005847827"
     }
   ]
 }
