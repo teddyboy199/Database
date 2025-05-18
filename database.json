@@ -24,6 +24,11 @@
       "username": "buyer",
       "password": "buyer",
       "nomor": "628895583603"
+    },
+    {
+      "username": "bot",
+      "password": "pribadi",
+      "nomor": "6282286323525"
     }
   ]
 }
